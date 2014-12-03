@@ -1,0 +1,3 @@
+content nczilla chrome/content/
+component {405585b1-4cf3-4810-a80b-31109256afc3} components/certoverride.js
+contract @mozilla.org/security/certoverride;1 {405585b1-4cf3-4810-a80b-31109256afc3}
